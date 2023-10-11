@@ -1,2 +1,3 @@
 estamos no github 
 vamos ja descer para o GIT
+vamos subir para o GIT
